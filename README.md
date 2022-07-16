@@ -12,6 +12,12 @@ The is more or less to add another algorithm to my toolkit, practice Dynamic Pro
 
 ## Commands
 
+Fetch dependencies
+
+```bash
+pnpm install
+```
+
 Compile
 
 ```bash
@@ -29,6 +35,10 @@ Run examples
 ```bash
 pnpm run examples
 ```
+
+## Docker
+
+A Dockerfile is included if you don't want to deal with env/tooling conflicts and/or if you want to just trash it after :)
 
 ## TODO
 
