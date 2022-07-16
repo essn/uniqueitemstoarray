@@ -32,6 +32,7 @@ pnpm run examples
 
 ## TODO
 
-- [ ] Fix up node exports
+- [ ] Fix up node exports and packaging
 - [ ] Run package as tarballed node binary
 - [ ] Make file
+- [ ] pnpm workspace for repo management
