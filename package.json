@@ -1,5 +1,5 @@
 {
-  "name": "find-unique-numbers",
+  "name": "uniqueitemstoarray",
   "version": "1.0.0",
   "description": "Quick example of an algorithm that will find numbers unique to an array",
   "author": "Jesse Pledger",
