@@ -2,7 +2,7 @@
 
 Pretty self explanitory.
 
-Given `[1,1,2,3]` return `[2,3]` as they only occur once.
+Given `[1,1,2,3]` return `[2,3]` if they only occur once.
 
 ## Why?
 
