@@ -12,23 +12,17 @@ The is more or less to add another algorithm to my toolkit, practice Dynamic Pro
 
 ## Commands
 
----
-
 Compile
 
 ```bash
 pnpm run compile
 ```
 
----
-
 Run tests
 
 ```bash
 pnpm run test
 ```
-
----
 
 Run examples
 
